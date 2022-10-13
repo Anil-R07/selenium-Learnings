@@ -6,6 +6,13 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class HandlingWindows {
 	public static void main(String[] args) throws InterruptedException {
+	
+		/**
+		*The snippet will help to handle tabs in selenium
+		*
+		8?
+		
+		
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.salesforce.com/in/form/signup/freetrial-sales/?d=70130000000Enyk");
