@@ -10,7 +10,7 @@ public class HandlingWindows {
 		/**
 		*The snippet will help to handle tabs in selenium
 		*
-		8?
+		*/
 		
 		
 		WebDriverManager.chromedriver().setup();
