@@ -9,6 +9,12 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class HoveringElement {
 	public static void main(String[] args) {
+		
+		/**
+		* Hover over a webelement using action class
+		*
+		*/
+		
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.ebay.com/");
