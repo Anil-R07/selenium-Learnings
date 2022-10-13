@@ -8,6 +8,7 @@ public class HandlingWindows {
 	public static void main(String[] args) throws InterruptedException {
 	
 		/**
+		*
 		*The snippet will help to handle tabs in selenium
 		*
 		*/
